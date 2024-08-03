@@ -1,4 +1,4 @@
-👋 Hi, I'm Smitha R Kunder (@Smithakunder)
-💻 Passionate about web development
-📘 Studying Computer Science
-📬 Reach out to me at: smithakunder42@gmail.com
+-👋 Hi, I'm Smitha R Kunder (@Smithakunder)
+-💻 Passionate about web development
+-📘 Studying Computer Science
+-📬 Reach out to me at: smithakunder42@gmail.com
