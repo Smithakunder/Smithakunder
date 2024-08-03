@@ -1,5 +1,4 @@
-
-- 👋 Hi, I’m @Smithakunder
-- 👀 I’m interested in web devolopment
-- 🌱 I’m currently learning Computer Science
-- 📫 How to reach me ...smithakunder42@gmail.com
+👋 Hi, I'm Smitha R Kunder (@Smithakunder)
+💻 Passionate about web development
+📘 Studying Computer Science
+📬 Reach out to me at: smithakunder42@gmail.com
